@@ -4,7 +4,7 @@
 package assignment8;
 
 /**
- * @author Bunyamin
+ * @author Bunyamin , akifcorduk
  *
  */
 public class MathematicalOperations {
@@ -56,6 +56,25 @@ public class MathematicalOperations {
 
 
 
+	}
+	
+	
+	/**
+
+
+
+	 * 2 number multiplication	
+
+	 * @param num1 is the multiplicant
+
+	 * @param num2 is the multiplier
+
+	 * @return num1 / num2 product
+
+	 */
+	public int multiplication(int num1, int num2) {
+		
+		return num1 * num2 ;
 	}
 	
 
